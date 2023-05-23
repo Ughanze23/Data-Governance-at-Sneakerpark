@@ -1,8 +1,8 @@
-# DataManagement
+# Data Governance at SneakerPark
 Project Overview
 Business Background
-SneakerPark logo
-SneakerPark logo
+![image](https://github.com/Ughanze23/Data-Governance/assets/29339360/1d07a41c-fca2-4fe9-b9a9-04b15db94cf0)
+
 
 SneakerPark is an online shoe reseller that allows people to buy and sell used and new shoes. Buyers can bid for shoes or buy them outright, and sellers can set a price or sell to the highest bidder.
 
