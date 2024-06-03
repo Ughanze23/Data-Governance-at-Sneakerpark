@@ -1,9 +1,6 @@
 # Data Governance at SneakerPark
 ## Project Overview
-Business Background
-![image](https://github.com/Ughanze23/Data-Governance/assets/29339360/1d07a41c-fca2-4fe9-b9a9-04b15db94cf0)
-
-
+### Business Background
 SneakerPark is an online shoe reseller that allows people to buy and sell used and new shoes. Buyers can bid for shoes or buy them outright, and sellers can set a price or sell to the highest bidder.
 
 Each buyer and seller must have an active account in order to sell, bid, or purchase sneakers using SneakerPark’s website.
@@ -12,7 +9,7 @@ SneakerPark authenticates the shoes before shipping them to the buyer, so before
 When the item sells, the seller's account is credited with the purchase price minus the SneakerPark service fee and shipping fees to deliver the item to the buyer.
 Currently, SneakerPark only supports sales within the United States.
 
-## Motivation
+### Motivation
 SneakerPark’s business has grown rapidly over the past year and it has led to some growing pains. As the number of sellers, buyers, items, and sales increased, the company started running into discrepancies between systems which resulted in mischarges, lost revenue, and frustrated customers. With this in mind, Sneaker Park has decided to invest in an Enterprise Data Management program to gain better visibility and control over their data systems.
 
 <b>Phase 1</b> of this initiative focuses on creating the foundational data management tools and artifacts that will allow SneakerPark to better manage its data now and in the future. More specifically, this entails documenting SneakerPark's data systems, setting up a data catalog, designing better data quality and master data management processes, and formalizing data governance roles.
@@ -20,7 +17,7 @@ SneakerPark’s business has grown rapidly over the past year and it has led to 
 As a newly hired Data Architect, you are asked to technically lead the Enterprise Data Management Program and get started with the implementation of Phase 1.
 
 
-## Project Steps Overview
+### Project Steps Overview
 * Created an Enterprise Conceptual Model that provides a holistic view of data in these three systems.
 * Designed the draft version of the Enterprise Data Catalog by documenting the metadata in an Excel spreadsheet.
 * Profiled the data to identify some data quality issues. Created a document that lists each data quality issue, its description, and suggested remediation strategy for each.
